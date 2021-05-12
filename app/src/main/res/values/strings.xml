@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Explicit Intent</string>
+    <string name="first_activity">This is the First Activity</string>
+    <string name="btn_txt">Go to the \n Second Activity</string>
+    <string name="this_is_the_second_activity">This is the Second Activity</string>
+    <string name="go_to_the_n_first_activity">Go to the \n First Activity</string>
+</resources>
